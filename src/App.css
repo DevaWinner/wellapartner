@@ -1,0 +1,75 @@
+/* ======== NavBar Component =========== */
+
+nav.navbar {
+	padding: 1rem 0;
+	background: #fff;
+	box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.09);
+}
+
+nav.navbar a {
+	color: var(--Grey-700, #344054);
+	font-weight: 500;
+}
+
+button.btn {
+	border-radius: 0.5rem;
+	background: var(--secondary-color);
+}
+
+button.btn:hover {
+	background: var(--green-2);
+}
+
+/* ========= Hero Component ========== */
+
+.hero_name {
+	color: var(--green-2);
+}
+
+/* ========= Sales Component ========== */
+.sales_container {
+	background-color: #ebfdf1;
+}
+
+.development_container {
+	background-color: #f7f5ff;
+}
+
+div.offerings {
+	align-items: center !important;
+}
+
+/* ===============Play Ground ========== */
+.form-switch .form-check-input {
+	width: 4rem !important;
+	height: 30px;
+	background-color: #eafff1;
+	border: none;
+}
+
+.form-switch .form-check-input:checked {
+	background-color: #18be50;
+}
+
+.form-switch .form-check-input:focus {
+	box-shadow: 0 0 0 0.25rem rgb(0 123 255 / 25%);
+	border: none;
+}
+
+.form-switch .form-check-input:disabled {
+	background-color: #eafff1;
+}
+
+span.savings {
+	background-color: #eafff1;
+	color: var(--green-2);
+}
+
+span.most-popular-label {
+	background: #eafff1;
+  color: #033;
+  font-size: 0.8rem;
+  font-weight: 500;
+  padding: 0.2rem 0.5rem;
+  margin-left: auto;
+}
