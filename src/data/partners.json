@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Amela",
+		"image": "src/assets/partners/Amela.svg"
+	},
+	{
+		"name": "Justrite",
+		"image": "src/assets/partners/Justrite.svg"
+	},
+	{
+		"name": "Life Stores",
+		"image": "src/assets/partners/LifeStores.svg"
+	},
+	{
+		"name": "Med Plus",
+    "image": "src/assets/partners/MedPlus.svg"
+	},
+	{
+		"name": "Nett Pharmacy",
+    "image": "src/assets/partners/NettPharmacy.svg"
+	},
+	{
+		"name": "Novomed",
+    "image": "src/assets/partners/Novomed.svg"
+	},
+	{
+		"name": "Safari",
+    "image": "src/assets/partners/Safari.svg"
+	},
+	{
+		"name": "Tonia",
+    "image": "src/assets/partners/Tonia.svg"
+	},
+	{
+		"name": "Vanguard",
+    "image": "src/assets/partners/Vanguard.svg"
+	}
+]
