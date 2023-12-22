@@ -1,0 +1,54 @@
+[
+	{
+		"title": "Wellapartner Basic",
+		"priceMonthly": 1000,
+		"priceYearly": 12000,
+		"discount": 0.75,
+		"benefits": [
+			"Hmo Drug Refills",
+			"Handle Malaria Claims",
+			"Wellapartner App Access",
+			"Patient Records Tracking",
+			"Business Support/Staff Training",
+			"Pharmacy listing on Wella Platform",
+			"Drugs Pickups for Telemedicine",
+			"Patient access to telemedicine"
+		],
+		"isHighlighted": false
+	},
+	{
+		"title": "Wellapartner Standard",
+		"priceMonthly": 2500,
+		"priceYearly": 30000,
+		"discount": 0.75,
+		"benefits": ["Everything on Lite", "Drug pickups for telemedicine"],
+		"isHighlighted": false
+	},
+	{
+		"title": "Wellapartner Business",
+		"priceMonthly": 5000,
+		"priceYearly": 60000,
+		"discount": 0.75,
+		"benefits": [
+			"Everything on Basic",
+			"Patient Management Portal",
+			"Bulk SMS",
+			"Automated Patient Follow Up",
+			"Chronic Disease Management Dasboard"
+		],
+		"isHighlighted": true
+	},
+	{
+		"title": "Wellapartner Premium",
+		"priceMonthly": 7000,
+		"priceYearly": 84000,
+		"discount": 0.75,
+		"benefits": [
+			"Everything on Business",
+			"Medication Group Purchase",
+			"Inventory Insights",
+			"Marketing Support"
+		],
+		"isHighlighted": false
+	}
+]
