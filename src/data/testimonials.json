@@ -1,0 +1,58 @@
+[
+	{
+		"id": 1,
+		"name": "John Doe",
+		"testimony": "I've been using the wellapartner services provided by wellapartner for over a year now, and I can confidently say that it has transformed the way I conduct transactions online",
+		"city": "New York",
+		"country": "USA"
+	},
+	{
+		"id": 2,
+		"name": "Jane Smith",
+		"testimony": "I've been using the escrow services provided by MiddleMan for over a year now, and I can confidently",
+		"city": "London",
+		"country": "UK"
+	},
+	{
+		"id": 3,
+		"name": "Alice Johnson",
+		"testimony": "'ve been using the escrow services provided by MiddleMan for over a year now, and I can confidently",
+		"city": "Paris",
+		"country": "France"
+	},
+	{
+		"id": 4,
+		"name": "Bob Anderson",
+		"testimony": "Vivamus auctor, turpis eu efficitur venenatis, purus justo fermentum purus, a consectetur nulla turpis nec mi.",
+		"city": "Berlin",
+		"country": "Germany"
+	},
+	{
+		"id": 5,
+		"name": "Eva Martinez",
+		"testimony": "Curabitur ultricies risus ut dolor placerat, nec feugiat metus aliquam. Ut vel tortor sit amet sem consectetur mattis.",
+		"city": "Barcelona",
+		"country": "Spain"
+	},
+	{
+		"id": 6,
+		"name": "David Kim",
+		"testimony": "Fusce nec velit sit amet elit commodo ultrices ut vel mi. Phasellus vel nisl nec risus congue dictum.",
+		"city": "Seoul",
+		"country": "South Korea"
+	},
+	{
+		"id": 7,
+		"name": "Sophie Chen",
+		"testimony": "Aenean auctor massa non nisi tincidunt, at euismod arcu tincidunt. Quisque id justo at erat vestibulum vestibulum.",
+		"city": "Beijing",
+		"country": "China"
+	},
+	{
+		"id": 8,
+		"name": "Mohammed Al-Farsi",
+		"testimony": "Integer tristique ligula at ligula rhoncus, sit amet aliquam sem feugiat. Suspendisse sed justo in tortor ullamcorper cursus.",
+		"city": "Dubai",
+		"country": "UAE"
+	}
+]
